@@ -1,0 +1,104 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Inter", sans-serif;
+}
+
+.bg-header {
+    background-color: rgb(255, 201, 201);
+    color:#CA0000;
+}
+
+.container {
+    width: 1366px;
+    margin: 0 auto;
+}
+
+.header {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+.header a {
+    text-decoration: none;
+    color:#CA0000;
+    padding: 40px;
+    font-weight: 900;
+}
+
+.section_1_text p{
+   max-width: 300px;
+   font-weight: 799;
+   color: #CA0000;
+}
+
+.section_1_text h3{
+   color: #CA0000; 
+ font-weight: 800;
+ margin-top: 10px;
+}
+
+.dr {
+    margin-top: 10px;
+}
+
+.kak {
+    font-weight: 800;
+}
+
+.section_1 {
+    display: flex;
+    justify-content: space-between; 
+}
+
+.card-1 {
+    font-weight: 800;
+    color: #CA0000;
+}
+.card-2 {
+    font-weight: 800;
+    color: #CA0000;
+}
+.section_2_text h3 {
+    font-weight: 800;
+    color: #CA0000;
+}
+.section_2_text p {
+    max-width: 500px;
+    font-weight: 600;
+    color: #CA0000;
+}
+
+.section_2 {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+.section_2 a {
+  background-color:#de9cff;
+ text-decoration: none;
+ color: #350050;
+padding: 10px;
+display: inline-block;
+margin-top: 100px;
+}
+
+.card-3 p {
+    color: #9417CF;
+    margin-left: 100px;
+    display: flex;
+}
+
+.p {
+    color: #9417CF;
+    margin-left: 190px; 
+    margin-bottom: 100px;
+}
+
+.bennet {
+    width: 450px;
+}
